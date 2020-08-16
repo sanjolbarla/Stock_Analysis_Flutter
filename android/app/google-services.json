@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "109825047934",
+    "firebase_url": "https://stockgraph-60c0a.firebaseio.com",
+    "project_id": "stockgraph-60c0a",
+    "storage_bucket": "stockgraph-60c0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109825047934:android:69f37cdd1c19906046072f",
+        "android_client_info": {
+          "package_name": "com.sanjol.stock_graph"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109825047934-j9fcuv1rab7s6t0skog7lakumlgah4r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2pz4VNZhJyQH_2fULsKhCdiYy1qyg7rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109825047934-j9fcuv1rab7s6t0skog7lakumlgah4r0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
