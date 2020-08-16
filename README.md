@@ -1,4 +1,4 @@
-# stock_graph
+# Stock Analysis using Flutter
 
 Application for showing stock changes of companies.
 
