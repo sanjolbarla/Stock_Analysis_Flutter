@@ -1,6 +1,6 @@
 # Stock Analysis using Flutter
 
-Application for showing stock changes of companies.
+Application for showing stock changes of companies using Flutter Framework.
 
 ## Images
 
