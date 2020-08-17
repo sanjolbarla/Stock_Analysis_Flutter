@@ -2,6 +2,14 @@
 
 Application for showing stock changes of companies.
 
+## Images
+
+<img src="images/login.png" width=360 height=640>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/signup.png" width=360 height=640>
+
+<img src="images/Sensex.png" width=360 height=640>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Company.png" width=360 height=640>
+
+<img src="images/notification.png" width=360 height=260>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
